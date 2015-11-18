@@ -1,0 +1,38 @@
+{
+  "name": "simpay",
+  "version": "0.0.1",
+  "description": "Simpay.pl API for nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "extend": "~2.0.0",
+    "request": "~2.34.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/worotyns/simpay.git"
+  },
+  "keywords": [
+    "node.js",
+    "sms",
+    "simpay",
+    "payment"
+  ],
+  "author": {
+    "name": "worotyns"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/worotyns/simpay/issues"
+  },
+  "homepage": "https://github.com/worotyns/",
+  "maintainers": [
+    {
+      "name": "worotyns",
+      "email": "worotyns@hotmail.com"
+    }
+  ]
+}
